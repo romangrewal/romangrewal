@@ -1,10 +1,9 @@
 <h1 align="left">
-    Hi there, 
-    <img src="./img/wave.gif" 
-         alt="Waving hand animated gif"
+    Hi there, I'm <a href="https://www.linkedin.com/in/roman-grewal-99907b377/" target="_blank">Roman Grewal</a>
+    <img src="./img/elmo-thunder.gif" 
+         alt="Elmo thunder gif"
          height="45"
          width="45" />
-  I'm <a href="https://www.linkedin.com/in/roman-grewal-99907b377/" target="_blank">Roman Grewal</a>
 </h1>
 
 
