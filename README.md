@@ -25,3 +25,13 @@ Here are some ideas to get you started:
 - Penetration Testing of Cloud Environments
 - AWS, Azure, Google Cloud
 
+- ⚡ Favorite Programming Languages: ...
+- C, C++, PHP, Python, C#, .NET
+
+- 🧰 DevOps Tools:
+- Ansible, Terraform, Docker, Kubernetes, Jenkins, Git
+
+- Databases I work with:
+- Postgres, MongoDB, Cassandra, HBase, Redis
+- Well versed in WebRTC:
+- RTP, Janus Video Server, STUN & TURN protocols
