@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
     Hi there, 
     <img src="./img/wave.gif" 
          alt="Waving hand animated gif"
