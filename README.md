@@ -2,8 +2,7 @@
     Hi there, I'm <a href="https://www.linkedin.com/in/roman-grewal-99907b377/" target="_blank">Roman Grewal</a>
     <img src="./img/elmo-thunder.gif" 
          alt="Elmo thunder gif"
-         height="90"
-         width="90" />
+         height="180" />
 </h1>
 
 
