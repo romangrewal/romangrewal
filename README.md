@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Roman Grewal
+## Hi there 👋, I'm Roman Grewal
 
 <!--
 **romangrewal/romangrewal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
