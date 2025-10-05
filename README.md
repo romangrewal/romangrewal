@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 - [Emoji] Connect with me ...
 - 🧰 DevOps Tools:
 - Ansible, Terraform, Docker, Kubernetes, Jenkins, Git
-
+- What I use to write code:
+- Vim
 - Databases I work with (SQL & NoSQL):
 - Postgres, MongoDB, Cassandra, HBase, Redis
 - Well versed in WebRTC:
