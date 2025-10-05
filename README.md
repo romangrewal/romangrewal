@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - Application Penetration Testing
 - Web Apps
 - Manual Penetration Testing / Lightweight DAST
+- Manual & Automated SAST
 - SCA
 - Kubernetes
 - Penetration Testing of Kubernetes Deployments
