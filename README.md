@@ -20,20 +20,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- [Emoji] About me ...
-- 🔭 I’m currently working on ...
-- Application Penetration Testing
+### 😄 About me
+- Software Engineer & Penetration Tester
+- I like to automate for breadth and manually test for depth
+  
+### 🔭 I’m currently working on
+#### Application Penetration Testing
 - Web Apps
 - Manual Penetration Testing / Lightweight DAST
 - Manual & Automated SAST
 - SCA
-- Kubernetes
+#### Kubernetes
 - Penetration Testing of Kubernetes Deployments
-- Cloud
+#### Cloud
 - Penetration Testing of Cloud Environments
 - AWS, Azure, Google Cloud
 
-- ⚡ Favorite Programming Languages: ...
+### 🤖 Favorite Programming Languages:
 - C, C++, PHP, Python, C#, .NET
 - [Emoji] Connect with me ...
 - 🧰 DevOps Tools / Infrastructure:
