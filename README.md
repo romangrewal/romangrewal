@@ -29,10 +29,12 @@ Here are some ideas to get you started:
 - ⚡ Favorite Programming Languages: ...
 - C, C++, PHP, Python, C#, .NET
 - [Emoji] Connect with me ...
-- 🧰 DevOps Tools:
-- Ansible, Terraform, Docker, Kubernetes, Jenkins, Git
+- 🧰 DevOps Tools / Infrastructure:
+- Ansible, Terraform, Docker, Kubernetes, Jenkins, Git, CentOS
 - What I use to write code:
 - Vim
+- Dev Environment:
+- Windows, WSL (Ubuntu)
 - Databases I work with (SQL & NoSQL):
 - Postgres, MongoDB, Cassandra, HBase, Redis
 - Well versed in WebRTC:
