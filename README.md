@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on ...
+- Application Penetration Testing
+- Web Apps
+- Manual Penetration Testing / Lightweight DAST
+- SCA
+- Kubernetes
+- Penetration Testing of Kubernetes Deployments
+- Cloud
+- Penetration Testing of Cloud Environments
+- AWS, Azure, Google Cloud
+
