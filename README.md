@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- [Emoji] About me ...
 - 🔭 I’m currently working on ...
 - Application Penetration Testing
 - Web Apps
@@ -27,11 +28,13 @@ Here are some ideas to get you started:
 
 - ⚡ Favorite Programming Languages: ...
 - C, C++, PHP, Python, C#, .NET
-
+- [Emoji] Connect with me ...
 - 🧰 DevOps Tools:
 - Ansible, Terraform, Docker, Kubernetes, Jenkins, Git
 
-- Databases I work with:
+- Databases I work with (SQL & NoSQL):
 - Postgres, MongoDB, Cassandra, HBase, Redis
 - Well versed in WebRTC:
 - RTP, Janus Video Server, STUN & TURN protocols
+- 📫 You can contact me through LinkedIn
+- Closing
