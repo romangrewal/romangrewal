@@ -10,9 +10,10 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 </h3>
 
 ### 😄 About me:
-- Software Engineer & Penetration Tester
-- I automate for breadth and manually test for depth
-  
+- 👨‍💻 Wrote my first line of code in April of 2013.
+- 👀 Hacking is an obsession.
+- ❤️ Code is beautiful.
+    
 ### 🔭 What I’m currently working on:
 #### 🔠 Application Penetration Testing
 - ✅ Web Apps
