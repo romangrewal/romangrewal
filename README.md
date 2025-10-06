@@ -40,20 +40,20 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 - AWS, Azure, Google Cloud
 - [Emoji] Connect with me ...
 ### 💯 Favorite Programming Languages:
-- C, C++, PHP, Python, C#, .NET
+- C, C++, Python, C#, .NET, PHP
 ### Favorite Linux Distributions
 - Slackware, Debian, CentOS, Ubuntu
 ### Favorite Window Manager
 - AwesomeWM
 ### 🏗️ DevOps Tools / Infrastructure:
 - Ansible, Terraform, Docker, Kubernetes, Jenkins, Git, CentOS
-- What I use to write code:
+### What I use to write code:
 - Vim
-- Dev Environment:
+### Current Dev Environment:
 - Windows, WSL (Ubuntu)
-- Databases I work with (SQL & NoSQL):
+### Databases I work with (SQL & NoSQL):
 - Postgres, MongoDB, Cassandra, HBase, Redis
-- Well versed in WebRTC:
+### 📺 Well versed in WebRTC:
 - RTP, Janus Video Server, STUN & TURN protocols
-- 📫 You can contact me through LinkedIn
+### 📫 You can contact me through LinkedIn
 - Closing
