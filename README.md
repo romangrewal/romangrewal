@@ -53,7 +53,6 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 ### 🪟 Favorite Window Manager:
 - AwesomeWM
 ### 🏗️ DevOps Tools / Infrastructure:
-- Ansible, Terraform, Docker, Kubernetes, NGINX, Jenkins, Git, Vagrant, CentOS
 <p align="left">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" alt="ansible" width="90" height="90"/>
     <img src="./img/terraform.webp" alt="terraform" width="90" height="90"/>
