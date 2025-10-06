@@ -41,30 +41,6 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
     <img src="./img/tcpdump.svg" alt="tcpdump" width="90" height="90"/>
 </p>
 
-### 💯 Favorite Programming Languages:
-<p align="left">
-    <img src="./img/cpl.png" alt="C" width="90" height="90"/> 
-    <img src="./img/c++.png" alt="C++" width="90" height="90"/> 
-    <img src="./img/python.png" alt="Python" width="90" height="90"/> 
-    <img src="./img/csharp.png" alt="C#" width="90" height="90"/> 
-    <img src="./img/Microsoft_.NET_logo.png" alt=".NET" width="90" height="90"/> 
-    <img src="./img/php.png" alt="PHP" width="90" height="90"/> 
-</p>
-
-### 🐧 Favorite Linux Distributions:
-<p align="left">
-    <img src="./img/slackware.png" alt="slackware" width="90" height="90"/> 
-    <img src="./img/ubuntu.png" alt="ubuntu" width="90" height="90"/> 
-    <img src="./img/debian.png" alt="debian" width="90" height="90"/> 
-    <img src="./img/fedora.png" alt="fedora" width="90" height="90"/> 
-    <img src="./img/CentOS.png" alt="centos" width="90" height="90"/> 
-</p>
-
-### 🪟 Favorite Window Manager:
-<p align="left">
-    <img src="./img/awesome64.png" alt="awesomewm" width="90" height="90"/> 
-</p>
-
 ### 🏗️ DevOps Tools:
 <p align="left">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" alt="ansible" width="90" height="90"/>
@@ -94,3 +70,28 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 - RTP, Janus Video Server, STUN & TURN protocols
 ### 📫 You can contact me through LinkedIn
 - Closing
+
+### ‼️ Favorite Tools:
+#### 💯 Programming Languages:
+<p align="left">
+    <img src="./img/cpl.png" alt="C" width="90" height="90"/> 
+    <img src="./img/c++.png" alt="C++" width="90" height="90"/> 
+    <img src="./img/python.png" alt="Python" width="90" height="90"/> 
+    <img src="./img/csharp.png" alt="C#" width="90" height="90"/> 
+    <img src="./img/Microsoft_.NET_logo.png" alt=".NET" width="90" height="90"/> 
+    <img src="./img/php.png" alt="PHP" width="90" height="90"/> 
+</p>
+
+#### 🐧 Linux Distributions:
+<p align="left">
+    <img src="./img/slackware.png" alt="slackware" width="90" height="90"/> 
+    <img src="./img/ubuntu.png" alt="ubuntu" width="90" height="90"/> 
+    <img src="./img/debian.png" alt="debian" width="90" height="90"/> 
+    <img src="./img/fedora.png" alt="fedora" width="90" height="90"/> 
+    <img src="./img/CentOS.png" alt="centos" width="90" height="90"/> 
+</p>
+
+#### 🪟 Window Manager:
+<p align="left">
+    <img src="./img/awesome64.png" alt="awesomewm" width="90" height="90"/> 
+</p>
