@@ -42,7 +42,7 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 ### 💯 Favorite Programming Languages:
 - C, C++, Python, C#, .NET, PHP
 ### Favorite Linux Distributions:
-- Slackware, Debian, CentOS, Ubuntu
+- Slackware, Ubuntu, Debian, CentOS
 ### Favorite Window Manager:
 - AwesomeWM
 ### 🏗️ DevOps Tools / Infrastructure:
