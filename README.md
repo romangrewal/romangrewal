@@ -42,7 +42,7 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 ### 💯 Favorite Programming Languages:
 - C, C++, PHP, Python, C#, .NET
 - [Emoji] Connect with me ...
-- 🧰 DevOps Tools / Infrastructure:
+### 🏗️ DevOps Tools / Infrastructure:
 - Ansible, Terraform, Docker, Kubernetes, Jenkins, Git, CentOS
 - What I use to write code:
 - Vim
