@@ -12,7 +12,7 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 ### 😄 About me:
 - 👨‍💻 Wrote my first line of code in April of 2013.
 - 👀 Hacking is an obsession.
-- ❤️ Code is beautiful.
+- 🍒 Code is beautiful.
     
 ### 🔭 What I’m currently working on:
 #### 🔠 Application Penetration Testing
