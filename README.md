@@ -123,6 +123,7 @@ or <a href="https://www.linkedin.com/in/roman-grewal-99907b377"><b>LinkedIn</b><
 <p align="left">
     <img src="./img/CentOS.png" alt="centos" width="40" height="40"/> 
 </p>
+
 <!-- 
 Honorable Mentions:
 Windows
@@ -131,6 +132,7 @@ Android
 Kafka
 NIST SP 800-53
 -->
+
 #### 🪟 Window Manager:
 <p align="left">
     <img src="./img/awesome64.png" alt="awesomewm" width="40" height="40"/> 
