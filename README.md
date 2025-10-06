@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 ### 😄 About me
 - Software Engineer & Penetration Tester
-- I like to automate for breadth and manually test for depth
+- I automate for breadth and manually test for depth
   
 ### 🔭 I’m currently working on
 #### Application Penetration Testing
