@@ -33,9 +33,9 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 - ✅ Manual Penetration Testing / Lightweight DAST
 - ✅ Manual & Automated SAST
 - ✅ SCA
-#### 🌐 Kubernetes
+#### 🌐 Penetration Testing of Kubernetes Deployments
 ![4c-cloud](./img/4c-cloud-native.png)
-#### ☁️ Cloud
+#### ☁️ Penetration Testing of Cloud Environments
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="105" height="105"/>
     <img src="./img/Microsoft_Azure.svg.png" alt="azure" width="90" height="90"/>
