@@ -39,6 +39,8 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 - Penetration Testing of Cloud Environments
 - AWS, Azure, Google Cloud
 ### 🗣️ Connect with me:
+### Penetration Testing Tools:
+- Burp Suite, Wireshark, Tcpdump
 ### 💯 Favorite Programming Languages:
 - C, C++, Python, C#, .NET, PHP
 ### 🐧 Favorite Linux Distributions:
@@ -46,7 +48,7 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 ### 🪟 Favorite Window Manager:
 - AwesomeWM
 ### 🏗️ DevOps Tools / Infrastructure:
-- Ansible, Terraform, Docker, Kubernetes, Jenkins, Git, CentOS
+- Ansible, Terraform, Docker, Kubernetes, NGINX, Jenkins, Git, CentOS
 ### 🧑‍💻 What I use to write code:
 - Vim
 ### 🌿 Current Dev Environment:
