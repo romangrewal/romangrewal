@@ -29,6 +29,9 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 </p>
 
 ### 🗣️ Connect with me:
+
+### 🧰 Github Metrics:
+
 ### 🔦 Penetration Testing Tools:
 - Burp Suite, Wireshark, Tcpdump
 
