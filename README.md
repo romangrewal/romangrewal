@@ -49,7 +49,7 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 - Ansible, Terraform, Docker, Kubernetes, Jenkins, Git, CentOS
 ### 🧑‍💻 What I use to write code:
 - Vim
-### 🍀 Current Dev Environment:
+### 🌿 Current Dev Environment:
 - Windows, WSL (Ubuntu)
 ### 🦖 Databases I work with (SQL & NoSQL):
 - Postgres, MongoDB, Cassandra, HBase, Redis
