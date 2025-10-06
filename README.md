@@ -2,20 +2,6 @@
     Hi there, I'm <a href="https://www.linkedin.com/in/roman-grewal-99907b377/" target="_blank">Roman Grewal</a>⚡
 </h1>
 
-<!--
-**romangrewal/romangrewal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center">
   <img src="./img/matrix.gif" height="250dp" >
 </p>
@@ -49,8 +35,19 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 - C, C++, Python, C#, .NET, PHP
 ### 🐧 Favorite Linux Distributions:
 - Slackware, Ubuntu, Debian, Fedora, CentOS
+<p align="left">
+    <img src="./img/slackware.png" alt="slackware" width="90" height="90"/> 
+    <img src="./img/ubuntu.png" alt="ubuntu" width="90" height="90"/> 
+    <img src="./img/debian.png" alt="debian" width="90" height="90"/> 
+    <img src="./img/fedora.png" alt="fedora" width="90" height="90"/> 
+    <img src="./img/CentOS.png" alt="centos" width="90" height="90"/> 
+</p>
+
 ### 🪟 Favorite Window Manager:
-- AwesomeWM
+<p align="left">
+    <img src="./img/awesome64.png" alt="awesomewm" width="90" height="90"/> 
+</p>
+
 ### 🏗️ DevOps Tools / Infrastructure:
 <p align="left">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" alt="ansible" width="90" height="90"/>
