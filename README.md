@@ -39,7 +39,7 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 - Penetration Testing of Cloud Environments
 - AWS, Azure, Google Cloud
 
-### 🤖 Favorite Programming Languages:
+### 💯 Favorite Programming Languages:
 - C, C++, PHP, Python, C#, .NET
 - [Emoji] Connect with me ...
 - 🧰 DevOps Tools / Infrastructure:
