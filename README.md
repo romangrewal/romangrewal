@@ -36,6 +36,11 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 
 ### 🔦 Penetration Testing Tools:
 - Burp Suite, Wireshark, Tcpdump
+<p align="left">
+    <img src="./img/burpsuite.png" alt="burpsuite" width="90" height="90"/>
+    <img src="./img/wireshark.png" alt="wireshark" width="90" height="90"/>
+    <img src="./img/tcpdump.svg" alt="tcpdump" width="90" height="90"/>
+</p>
 
 ### 💯 Favorite Programming Languages:
 <p align="left">
