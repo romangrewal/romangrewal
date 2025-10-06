@@ -77,8 +77,16 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
     <img src="./img/redis.png" alt="Redis" width="40" height="40"/> 
 </p>
 
-### 📺 Well versed in WebRTC:
-- RTP, Janus Video Server, STUN & TURN protocols
+### 📺 Well versed in Web to Video Live Streaming:
+- [Transports for WebRTC](https://datatracker.ietf.org/doc/html/rfc8835)
+- [RTP: A Transport Protocol for Real-Time Applications](https://datatracker.ietf.org/doc/html/rfc3550)
+- [Interactive Connectivity Establishment (ICE): A Protocol for Network Address Translator (NAT) Traversal](https://datatracker.ietf.org/doc/html/rfc8445)
+- [Session Traversal Utilities for NAT (STUN)](https://datatracker.ietf.org/doc/html/rfc8489)
+- [Traversal Using Relays around NAT (TURN): Relay Extensions to Session Traversal Utilities for NAT (STUN)](https://datatracker.ietf.org/doc/html/rfc5766)
+- [Real-Time Streaming Protocol Version 2.0](https://datatracker.ietf.org/doc/html/rfc7826)
+- [HTTP Live Streaming](https://datatracker.ietf.org/doc/html/rfc8216)
+- [Janus Video Server](https://janus.conf.meetecho.com)
+
 ### 📫 You can contact me through [LinkedIn](https://www.linkedin.com/in/roman-grewal-99907b377)
 
 <div align="left">
