@@ -23,16 +23,16 @@ Here are some ideas to get you started:
 A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 </h3>
 
-### 😄 About me
+### 😄 About me:
 - Software Engineer & Penetration Tester
 - I automate for breadth and manually test for depth
   
-### 🔭 I’m currently working on
+### 🔭 I’m currently working on:
 #### Application Penetration Testing
-- Web Apps
-- Manual Penetration Testing / Lightweight DAST
-- Manual & Automated SAST
-- SCA
+- ✅ Web Apps
+- ✅ Manual Penetration Testing / Lightweight DAST
+- ✅ Manual & Automated SAST
+- ✅ SCA
 #### 🌐 Kubernetes
 ![4c-cloud](./img/4c-cloud-native.png)
 #### ☁️ Cloud
