@@ -33,25 +33,25 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 - Manual Penetration Testing / Lightweight DAST
 - Manual & Automated SAST
 - SCA
-#### Kubernetes
+#### 🌐 Kubernetes
 - Penetration Testing of Kubernetes Deployments
-#### Cloud
+#### ☁️ Cloud
 - Penetration Testing of Cloud Environments
 - AWS, Azure, Google Cloud
-### Connect with me:
+### 🗣️ Connect with me:
 ### 💯 Favorite Programming Languages:
 - C, C++, Python, C#, .NET, PHP
 ### 🐧 Favorite Linux Distributions:
 - Slackware, Ubuntu, Debian, CentOS
-### Favorite Window Manager:
+### 🪟 Favorite Window Manager:
 - AwesomeWM
 ### 🏗️ DevOps Tools / Infrastructure:
 - Ansible, Terraform, Docker, Kubernetes, Jenkins, Git, CentOS
-### What I use to write code:
+### 🧑‍💻 What I use to write code:
 - Vim
-### Current Dev Environment:
+### 🍀 Current Dev Environment:
 - Windows, WSL (Ubuntu)
-### Databases I work with (SQL & NoSQL):
+### 🦨 Databases I work with (SQL & NoSQL):
 - Postgres, MongoDB, Cassandra, HBase, Redis
 ### 📺 Well versed in WebRTC:
 - RTP, Janus Video Server, STUN & TURN protocols
