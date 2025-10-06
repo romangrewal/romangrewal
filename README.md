@@ -27,7 +27,7 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 - Software Engineer & Penetration Tester
 - I automate for breadth and manually test for depth
   
-### 🔭 I’m currently working on:
+### 🔭 What I’m currently working on:
 #### 🔠 Application Penetration Testing
 - ✅ Web Apps
 - ✅ Manual Penetration Testing / Lightweight DAST
@@ -48,7 +48,7 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 ### 💯 Favorite Programming Languages:
 - C, C++, Python, C#, .NET, PHP
 ### 🐧 Favorite Linux Distributions:
-- Slackware, Ubuntu, Debian, CentOS
+- Slackware, Ubuntu, Debian, Fedora, CentOS
 ### 🪟 Favorite Window Manager:
 - AwesomeWM
 ### 🏗️ DevOps Tools / Infrastructure:
