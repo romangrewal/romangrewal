@@ -31,8 +31,17 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 ### 🗣️ Connect with me:
 ### 🔦 Penetration Testing Tools:
 - Burp Suite, Wireshark, Tcpdump
+
 ### 💯 Favorite Programming Languages:
-- C, C++, Python, C#, .NET, PHP
+<p align="left">
+    <img src="./img/cpl.png" alt="C" width="90" height="90"/> 
+    <img src="./img/c++.png" alt="C++" width="90" height="90"/> 
+    <img src="./img/python.png" alt="Python" width="90" height="90"/> 
+    <img src="./img/csharp.png" alt="C#" width="90" height="90"/> 
+    <img src="./img/Microsoft_.NET_logo.png" alt=".NET" width="90" height="90"/> 
+    <img src="./img/php.png" alt="PHP" width="90" height="90"/> 
+</p>
+
 ### 🐧 Favorite Linux Distributions:
 <p align="left">
     <img src="./img/slackware.png" alt="slackware" width="90" height="90"/> 
