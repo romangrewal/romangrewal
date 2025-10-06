@@ -71,8 +71,8 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 <p align="left">
     <img src="./img/postgres.png" alt="Postgres" width="40" height="40"/> 
     <img src="./img/mongodb.webp" alt="MongoDB" width="40" height="40"/> 
-    <img src="./img/cassandra.png" alt="Cassandra" width="40" height="40"/> 
-    <img src="./img/hbase.png" alt="HBase" width="40" height="40"/> 
+    <img src="./img/whitecassandra.png" alt="Cassandra" width="40" height="40"/> 
+    <img src="./img/whitehbase.png" alt="HBase" width="40" height="40"/> 
 </p>
 <p align="left">
     <img src="./img/redis.png" alt="Redis" width="40" height="40"/> 
