@@ -59,7 +59,6 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
     <img src="./img/terraform.webp" alt="terraform" width="90" height="90"/>
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" width="80" height="80"/> 
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="90" height="90"/>
- 
     <img src="./img/nginx.png" alt="nginx" width="90" height="90"/> 
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="90" height="90"/> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="90" height="90"/> 
