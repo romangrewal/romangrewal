@@ -38,12 +38,12 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 #### Cloud
 - Penetration Testing of Cloud Environments
 - AWS, Azure, Google Cloud
-- [Emoji] Connect with me ...
+### Connect with me:
 ### 💯 Favorite Programming Languages:
 - C, C++, Python, C#, .NET, PHP
-### Favorite Linux Distributions
+### Favorite Linux Distributions:
 - Slackware, Debian, CentOS, Ubuntu
-### Favorite Window Manager
+### Favorite Window Manager:
 - AwesomeWM
 ### 🏗️ DevOps Tools / Infrastructure:
 - Ansible, Terraform, Docker, Kubernetes, Jenkins, Git, CentOS
