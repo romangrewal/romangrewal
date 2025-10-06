@@ -28,7 +28,7 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 - I automate for breadth and manually test for depth
   
 ### 🔭 I’m currently working on:
-#### Application Penetration Testing
+#### 🔠 Application Penetration Testing
 - ✅ Web Apps
 - ✅ Manual Penetration Testing / Lightweight DAST
 - ✅ Manual & Automated SAST
