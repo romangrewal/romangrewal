@@ -39,7 +39,7 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 - Penetration Testing of Cloud Environments
 - AWS, Azure, Google Cloud
 ### 🗣️ Connect with me:
-### Penetration Testing Tools:
+### 🔦 Penetration Testing Tools:
 - Burp Suite, Wireshark, Tcpdump
 ### 💯 Favorite Programming Languages:
 - C, C++, Python, C#, .NET, PHP
