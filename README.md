@@ -63,6 +63,7 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="90" height="90"/> 
     <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="90" height="90"/>
 </p>
+
 ### 🧑‍💻 What I use to write code:
 - Vim
 ### 🌿 Current Dev Environment:
