@@ -65,7 +65,14 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 </p>
 
 ### 🦖 Databases I work with (SQL & NoSQL):
-- Postgres, MongoDB, Cassandra, HBase, Redis
+<p align="left">
+    <img src="./img/postgres.png" alt="Postgres" width="90" height="90"/> 
+    <img src="./img/mongodb.webp" alt="MongoDB" width="90" height="90"/> 
+    <img src="./img/cassandra.png" alt="Cassandra" width="90" height="90"/> 
+    <img src="./img/hbase.png" alt="HBase" width="90" height="90"/> 
+    <img src="./img/redis.png" alt="Redis" width="90" height="90"/> 
+</p>
+
 ### 📺 Well versed in WebRTC:
 - RTP, Janus Video Server, STUN & TURN protocols
 ### 📫 You can contact me through LinkedIn
