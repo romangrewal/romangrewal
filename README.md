@@ -24,9 +24,9 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 ![4c-cloud](./img/4c-cloud-native.png)
 #### ☁️ Penetration Testing of Cloud Environments
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-    <img src="./img/Microsoft_Azure.svg.png" alt="azure" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+    <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+    <a href="https://azure.microsoft.com" target="_blank"><img src="./img/Microsoft_Azure.svg.png" alt="azure" width="40" height="40"/></a>
+    <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
 </p>
 
 ### 🗣️ Connect with me:
