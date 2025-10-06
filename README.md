@@ -48,7 +48,7 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
     <img src="./img/awesome64.png" alt="awesomewm" width="90" height="90"/> 
 </p>
 
-### 🏗️ DevOps Tools / Infrastructure:
+### 🏗️ DevOps Tools:
 <p align="left">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" alt="ansible" width="90" height="90"/>
     <img src="./img/terraform.webp" alt="terraform" width="90" height="90"/>
@@ -58,7 +58,6 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="90" height="90"/> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="90" height="90"/> 
     <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="90" height="90"/>
-    <img src="./img/CentOS.png" alt="centos" width="90" height="90"/> 
 </p>
 
 ### 🌿 Current Dev Environment:
