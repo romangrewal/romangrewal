@@ -35,7 +35,6 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 ### :zap: Recent Activity:
 
 ### 🔦 Penetration Testing Tools:
-- Burp Suite, Wireshark, Tcpdump
 <p align="left">
     <img src="./img/burpsuite.png" alt="burpsuite" width="90" height="90"/>
     <img src="./img/wireshark.png" alt="wireshark" width="90" height="90"/>
