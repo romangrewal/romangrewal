@@ -66,11 +66,11 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 
 ### 🦖 Databases I work with (SQL & NoSQL):
 <p align="left">
-    <img src="./img/postgres.png" alt="Postgres" width="90" height="90"/> 
-    <img src="./img/mongodb.webp" alt="MongoDB" width="90" height="90"/> 
-    <img src="./img/cassandra.png" alt="Cassandra" width="90" height="90"/> 
-    <img src="./img/hbase.png" alt="HBase" width="90" height="90"/> 
-    <img src="./img/redis.png" alt="Redis" width="90" height="90"/> 
+    <img src="./img/postgres.png" alt="Postgres" width="45" height="45"/> 
+    <img src="./img/mongodb.webp" alt="MongoDB" width="45" height="45"/> 
+    <img src="./img/cassandra.png" alt="Cassandra" width="45" height="45"/> 
+    <img src="./img/hbase.png" alt="HBase" width="45" height="45"/> 
+    <img src="./img/redis.png" alt="Redis" width="45" height="45"/> 
 </p>
 
 ### 📺 Well versed in WebRTC:
