@@ -79,7 +79,6 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 </p>
 
 ### 📺 Well versed in Web to Video Live Streaming:
-- <a href="https://datatracker.ietf.org/doc/html/rfc8835" target="_blank">Transports for WebRTC</a>
 - [Transports for WebRTC](https://datatracker.ietf.org/doc/html/rfc8835)
 - [RTP: A Transport Protocol for Real-Time Applications](https://datatracker.ietf.org/doc/html/rfc3550)
 - [Interactive Connectivity Establishment (ICE): A Protocol for Network Address Translator (NAT) Traversal](https://datatracker.ietf.org/doc/html/rfc8445)
