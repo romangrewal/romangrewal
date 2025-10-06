@@ -97,13 +97,11 @@ or <a href="https://www.linkedin.com/in/roman-grewal-99907b377"><b>LinkedIn</b><
 <p align="left">
     <img src="./img/cpl.png" alt="C" width="40" height="40"/> 
     <img src="./img/c++.png" alt="C++" width="40" height="40"/>
+    <img src="./img/python.png" alt="Python" width="40" height="40"/> 
     <img src="./img/csharp.png" alt="C#" width="40" height="40"/>
-    <img src="./img/Microsoft_.NET_logo.png" alt=".NET" width="40" height="40"/> 
-    
-    
 </p>
 <p align="left">
-    <img src="./img/python.png" alt="Python" width="40" height="40"/> 
+    <img src="./img/Microsoft_.NET_logo.png" alt=".NET" width="40" height="40"/> 
     <img src="./img/php.png" alt="PHP"  width="40" height="40"/> 
 </p>
 
