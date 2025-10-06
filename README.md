@@ -37,9 +37,9 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 
 ### 🔦 Penetration Testing Tools:
 <p align="left">
-    <img src="./img/burpsuite.png" alt="burpsuite" width="40" height="40"/>
-    <img src="./img/wireshark.png" alt="wireshark" width="40" height="40"/>
-    <img src="./img/tcpdump.svg" alt="tcpdump" width="40" height="40"/>
+    <a href="https://portswigger.net" target="_blank"><img src="./img/burpsuite.png" alt="burpsuite" width="40" height="40"/></a>
+    <a href="https://www.wireshark.org" target="_blank"><img src="./img/wireshark.png" alt="wireshark" width="40" height="40"/></a>
+    <a href="https://www.tcpdump.org" target="_blank"><img src="./img/tcpdump.svg" alt="tcpdump" width="40" height="40"/></a>
 </p>
 
 ### 🏗️ DevOps Tools:
