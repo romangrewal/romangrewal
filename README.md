@@ -51,7 +51,7 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 - Vim
 ### 🍀 Current Dev Environment:
 - Windows, WSL (Ubuntu)
-### 🦨 Databases I work with (SQL & NoSQL):
+### 🦖 Databases I work with (SQL & NoSQL):
 - Postgres, MongoDB, Cassandra, HBase, Redis
 ### 📺 Well versed in WebRTC:
 - RTP, Janus Video Server, STUN & TURN protocols
