@@ -64,15 +64,15 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
     <img src="./img/CentOS.png" alt="centos" width="90" height="90"/> 
 </p>
 
-### 🧑‍💻 What I use to write code:
-<p align="left">
-    <img src="./img/vim.png" alt="vim" width="90" height="90"/>
-</p>
-
 ### 🌿 Current Dev Environment:
 <p align="left">
     <img src="./img/windows11.png" alt="windows" width="90" height="90"/>
     <img src="./img/Windows_Subsystem_for_Linux_icon.webp" alt="wsl" width="90" height="90"/>
+</p>
+
+### 🧑‍💻 What I use to write code:
+<p align="left">
+    <img src="./img/vim.png" alt="vim" width="90" height="90"/>
 </p>
 
 ### 🦖 Databases I work with (SQL & NoSQL):
