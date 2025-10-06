@@ -71,7 +71,7 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 
 ### 🌿 Current Dev Environment:
 <p align="left">
-    <img src="./img/windows.png" alt="windows" width="90" height="90"/>
+    <img src="./img/windows11.png" alt="windows" width="90" height="90"/>
     <img src="./img/Windows_Subsystem_for_Linux_icon.webp" alt="wsl" width="90" height="90"/>
 </p>
 
