@@ -41,6 +41,7 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="105" height="105"/>
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="90" height="90"/>
 </p>
+
 ### 🗣️ Connect with me:
 ### 🔦 Penetration Testing Tools:
 - Burp Suite, Wireshark, Tcpdump
