@@ -91,7 +91,6 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 
 <div align="left">
     
-You have discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/romangrewal/romangrewal/issues/new"><b>here</b></a><br>
 or <a href="https://www.linkedin.com/in/roman-grewal-99907b377"><b>LinkedIn</b></a>  <br>
