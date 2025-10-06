@@ -24,9 +24,9 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 ![4c-cloud](./img/4c-cloud-native.png)
 #### ☁️ Penetration Testing of Cloud Environments
 <p align="left">
-    <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-    <a href="https://azure.microsoft.com" target="_blank"><img src="./img/Microsoft_Azure.svg.png" alt="azure" width="40" height="40"/></a>
-    <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    <img src="./img/Microsoft_Azure.svg.png" alt="azure" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
 </p>
 
 ### 🗣️ Connect with me:
@@ -37,9 +37,9 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 
 ### 🔦 Penetration Testing Tools:
 <p align="left">
-    <a href="https://portswigger.net" target="_blank"><img src="./img/burpsuite.png" alt="burpsuite" width="40" height="40"/></a>
-    <a href="https://www.wireshark.org" target="_blank"><img src="./img/wireshark.png" alt="wireshark" width="40" height="40"/></a>
-    <a href="https://www.tcpdump.org" target="_blank"><img src="./img/tcpdump.svg" alt="tcpdump" width="40" height="40"/></a>
+    <img src="./img/burpsuite.png" alt="burpsuite" width="40" height="40"/>
+    <img src="./img/wireshark.png" alt="wireshark" width="40" height="40"/>
+    <img src="./img/tcpdump.svg" alt="tcpdump" width="40" height="40"/>
 </p>
 
 ### 🏗️ DevOps Tools:
