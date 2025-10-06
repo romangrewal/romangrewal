@@ -2,7 +2,6 @@
     Hi there, I'm <a href="https://www.linkedin.com/in/roman-grewal-99907b377/" target="_blank">Roman Grewal</a>⚡
 </h1>
 
-
 <!--
 **romangrewal/romangrewal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="./img/matrix.gif" height="250dp" >
+</p>
 ### 😄 About me
 - Software Engineer & Penetration Tester
 - I automate for breadth and manually test for depth
