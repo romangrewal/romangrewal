@@ -23,9 +23,9 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 ![4c-cloud](./img/4c-cloud-native.png)
 #### ☁️ Penetration Testing of Cloud Environments
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="105" height="105"/>
-    <img src="./img/Microsoft_Azure.svg.png" alt="azure" width="90" height="90"/>
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="90" height="90"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    <img src="./img/Microsoft_Azure.svg.png" alt="azure" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
 </p>
 
 ### 🗣️ Connect with me:
@@ -36,41 +36,45 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 
 ### 🔦 Penetration Testing Tools:
 <p align="left">
-    <img src="./img/burpsuite.png" alt="burpsuite" width="90" height="90"/>
-    <img src="./img/wireshark.png" alt="wireshark" width="90" height="90"/>
-    <img src="./img/tcpdump.svg" alt="tcpdump" width="90" height="90"/>
+    <img src="./img/burpsuite.png" alt="burpsuite" width="40" height="40"/>
+    <img src="./img/wireshark.png" alt="wireshark" width="40" height="40"/>
+    <img src="./img/tcpdump.svg" alt="tcpdump" width="40" height="40"/>
 </p>
 
 ### 🏗️ DevOps Tools:
 <p align="left">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" alt="ansible" width="90" height="90"/>
-    <img src="./img/terraform.webp" alt="terraform" width="90" height="90"/>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" width="80" height="80"/> 
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="90" height="90"/>
-    <img src="./img/nginx.png" alt="nginx" width="90" height="90"/> 
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="90" height="90"/> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="90" height="90"/> 
-    <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="90" height="90"/>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" alt="ansible" width="40" height="40"/>
+    <img src="./img/terraform.webp" alt="terraform" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+</p>
+<p align="left">
+    <img src="./img/nginx.png" alt="nginx" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
 </p>
 
 ### 🌿 Current Dev Environment:
 <p align="left">
-    <img src="./img/windows11.png" alt="windows" width="90" height="90"/>
-    <img src="./img/Windows_Subsystem_for_Linux_icon.webp" alt="wsl" width="90" height="90"/>
+    <img src="./img/windows11.png" alt="windows" width="40" height="40"/>
+    <img src="./img/Windows_Subsystem_for_Linux_icon.webp" alt="wsl" width="40" height="40"/>
 </p>
 
 ### 🧑‍💻 What I use to write code:
 <p align="left">
-    <img src="./img/vim.png" alt="vim" width="90" height="90"/>
+    <img src="./img/vim.png" alt="vim" width="40" height="40"/>
 </p>
 
 ### 🦖 Databases I work with (SQL & NoSQL):
 <p align="left">
-    <img src="./img/postgres.png" alt="Postgres" width="45" height="45"/> 
-    <img src="./img/mongodb.webp" alt="MongoDB" width="45" height="45"/> 
-    <img src="./img/cassandra.png" alt="Cassandra" width="45" height="45"/> 
-    <img src="./img/hbase.png" alt="HBase" width="45" height="45"/> 
-    <img src="./img/redis.png" alt="Redis" width="45" height="45"/> 
+    <img src="./img/postgres.png" alt="Postgres" width="40" height="40"/> 
+    <img src="./img/mongodb.webp" alt="MongoDB" width="40" height="40"/> 
+    <img src="./img/cassandra.png" alt="Cassandra" width="40" height="40"/> 
+    <img src="./img/hbase.png" alt="HBase" width="40" height="40"/> 
+</p>
+<p align="left">
+    <img src="./img/redis.png" alt="Redis" width="40" height="40"/> 
 </p>
 
 ### 📺 Well versed in WebRTC:
@@ -91,24 +95,28 @@ or <a href="https://www.linkedin.com/in/roman-grewal-99907b377"><b>LinkedIn</b><
 ### ‼️ Favorite Tools:
 #### 💯 Programming Languages:
 <p align="left">
-    <img src="./img/cpl.png" alt="C" width="90" height="90"/> 
-    <img src="./img/c++.png" alt="C++" width="90" height="90"/> 
-    <img src="./img/python.png" alt="Python" width="90" height="90"/> 
-    <img src="./img/csharp.png" alt="C#" width="90" height="90"/> 
-    <img src="./img/Microsoft_.NET_logo.png" alt=".NET" width="90" height="90"/> 
-    <img src="./img/php.png" alt="PHP" width="90" height="90"/> 
+    <img src="./img/cpl.png" alt="C" width="40" height="40"/> 
+    <img src="./img/c++.png" alt="C++" width="40" height="40"/> 
+    <img src="./img/python.png" alt="Python" width="40" height="40"/> 
+    <img src="./img/csharp.png" alt="C#" width="40" height="40"/> 
+</p>
+<p align="left">
+    <img src="./img/Microsoft_.NET_logo.png" alt=".NET" width="40" height="40"/> 
+    <img src="./img/php.png" alt="PHP"  width="40" height="40"/> 
 </p>
 
 #### 🐧 Linux Distributions:
 <p align="left">
-    <img src="./img/slackware.png" alt="slackware" width="90" height="90"/> 
-    <img src="./img/ubuntu.png" alt="ubuntu" width="90" height="90"/> 
-    <img src="./img/debian.png" alt="debian" width="90" height="90"/> 
-    <img src="./img/fedora.png" alt="fedora" width="90" height="90"/> 
-    <img src="./img/CentOS.png" alt="centos" width="90" height="90"/> 
+    <img src="./img/slackware.png" alt="slackware" width="40" height="40"/> 
+    <img src="./img/ubuntu.png" alt="ubuntu" width="40" height="40"/> 
+    <img src="./img/debian.png" alt="debian" width="40" height="40"/> 
+    <img src="./img/fedora.png" alt="fedora" width="40" height="40"/> 
+</p>
+<p align="left">
+    <img src="./img/CentOS.png" alt="centos" width="40" height="40"/> 
 </p>
 
 #### 🪟 Window Manager:
 <p align="left">
-    <img src="./img/awesome64.png" alt="awesomewm" width="90" height="90"/> 
+    <img src="./img/awesome64.png" alt="awesomewm" width="40" height="40"/> 
 </p>
