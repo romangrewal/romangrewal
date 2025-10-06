@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="./img/matrix.gif" height="250dp" >
 </p>
+<h3 align="center">
+A Penetration Tester living in Baltimore, MD 
+</h3>
 
 ### 😄 About me
 - Software Engineer & Penetration Tester
