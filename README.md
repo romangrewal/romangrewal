@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img src="./img/matrix.gif" height="250dp" >
 </p>
 <h3 align="center">
-A Penetration Tester 🤖 living in Baltimore, MD 🇺🇲
+A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 </h3>
 
 ### 😄 About me
