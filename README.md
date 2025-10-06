@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="./img/matrix.gif" height="250dp" >
 </p>
+
 ### 😄 About me
 - Software Engineer & Penetration Tester
 - I automate for breadth and manually test for depth
