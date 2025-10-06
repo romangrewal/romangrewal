@@ -1,5 +1,5 @@
 <h1 align="left">
-    Hi there, I'm <a href="https://www.linkedin.com/in/roman-grewal-99907b377/" target="_blank">Roman Grewal</a>⚡
+    Hi there, I'm <a href="https://www.linkedin.com/in/roman-grewal-99907b377" target="_blank">Roman Grewal</a>⚡
 </h1>
 
 <p align="center">
@@ -75,7 +75,7 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 
 ### 📺 Well versed in WebRTC:
 - RTP, Janus Video Server, STUN & TURN protocols
-### 📫 You can contact me through LinkedIn
+### 📫 You can contact me through [Linkedin](https://www.linkedin.com/in/roman-grewal-99907b377) 
 - Closing
 
 ### ‼️ Favorite Tools:
