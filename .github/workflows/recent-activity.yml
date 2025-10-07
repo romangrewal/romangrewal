@@ -1,27 +1,17 @@
-name: Update README Activity
+name: Update README
 on:
   schedule:
-    - cron: "*/30 * * * *" # Runs every 30 minutes
-  workflow_dispatch: # Allows manual triggering
-permissions:
-  contents: write
-
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
 jobs:
-  update_activity:
+  build:
+    name: Update this repo's README with recent activity
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4 # Checks out your repository
-      - name: Update README
-        uses: readme-workflows/recent-activity@main # Uses the Readme-Workflows/recent-activity action
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-#        with:
-#          GH_USERNAME: ${{ secrets.GITHUB_USERNAME }}
-#          CONFIG_FILE: 'path/to/your/config.json'
-          # Add your customization settings here, e.g.:
-          # disable_events: "PullRequestEvent,IssuesEvent"
-          # commit_message: "Updated activity in README"
-          # timezone: "America/New_York"
-          # commit_username: "MyBot"
-          # commit_email: "mybot@example.com"
