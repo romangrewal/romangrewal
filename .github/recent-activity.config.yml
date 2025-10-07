@@ -2,8 +2,23 @@ settings:
   username: "romangrewal" # Replace with your username or comment out this line
   commit_msg: "⚡ Update README with the recent activity"
   max_lines: 50
-  disabled_events:
-    - ""
+  whitelisted_events:
+    - comments
+    - create_repo
+    - fork
+    - issues
+    - issues_open
+    - issues_close
+    - member
+    - pr
+    - pr_open
+    - pr_merge
+    - pr_close
+    - push
+    - release
+    - review
+    - star
+    - wiki
   url_text: "{REPO}{ID}"
   date:
     text: ""
