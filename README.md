@@ -35,6 +35,9 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 
 ### :zap: Recent Activity:
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ### 🔦 Penetration Testing Tools:
 <p align="left">
     <img src="./img/burpsuite.png" alt="burpsuite" width="40" height="40"/>
