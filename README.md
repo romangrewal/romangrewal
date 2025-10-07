@@ -35,16 +35,7 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 
 ### :zap: Recent Activity:
 
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
-2. ⬆️ Pushed 1 commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
-3. ⬆️ Pushed 1 commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
-4. ⬆️ Pushed 1 commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
-5. ⬆️ Pushed 1 commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
-<!--RECENT_ACTIVITY:end-->
-<!--RECENT_ACTIVITY:last_update-->
-
-<!--RECENT_ACTIVITY:last_update_end-->
+<!--START_SECTION:activity-->
 
 ### 🔦 Penetration Testing Tools:
 <p align="left">
