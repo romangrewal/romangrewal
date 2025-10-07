@@ -1,41 +1,4 @@
-<h1 align="left">
-    Hi there, I'm <a href="https://www.linkedin.com/in/roman-grewal-99907b377" target="_blank">Roman Grewal</a>⚡
-</h1>
-
-<p align="center">
-  <img src="./img/matrix.gif" height="250dp" >
-</p>
-<h3 align="center">
-A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
-</h3>
-
-### 😄 About me:
-- 👨‍💻 Writing code since April of 2013.
-- 👀 Hacking is an obsession.
-- 🍒 Code is beautiful.
-    
-### 🔭 What I’m currently working on:
-#### 🔠 Application Penetration Testing
-- ✅ Web Apps
-- ✅ Manual Penetration Testing / Lightweight DAST
-- ✅ Manual & Automated SAST
-- ✅ SCA
-#### 🌐 Penetration Testing of Kubernetes Deployments
-![4c-cloud](./img/4c-cloud-native.png)
-#### ☁️ Penetration Testing of Cloud Environments
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-    <img src="./img/Microsoft_Azure.svg.png" alt="azure" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-</p>
-
-### 🗣️ Connect with me:
-
-### 🧰 Github Metrics:
-
-### :zap: Recent Activity:
-
-<!--RECENT_ACTIVITY:start-->
+0. ⬆️ Pushed 1 commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
 1. ⬆️ Pushed 1 commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
 2. ⬆️ Pushed 1 commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
 3. ⬆️ Pushed 1 commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
@@ -124,17 +87,54 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 86. ⬆️ Pushed 1 commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
 87. ⬆️ Pushed 1 commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
 88. ⬆️ Pushed 1 commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
-89. ⬆️ Pushed 1 commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
-90. 📔 Created new repository [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
+89. 📔 Created new repository [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
+90. ⬆️ Pushed 1 commit(s) to [romangrewal/webapp-pentesting-lab](https://github.com/romangrewal/webapp-pentesting-lab)<br>
 91. ⬆️ Pushed 1 commit(s) to [romangrewal/webapp-pentesting-lab](https://github.com/romangrewal/webapp-pentesting-lab)<br>
 92. ⬆️ Pushed 1 commit(s) to [romangrewal/webapp-pentesting-lab](https://github.com/romangrewal/webapp-pentesting-lab)<br>
 93. ⬆️ Pushed 1 commit(s) to [romangrewal/webapp-pentesting-lab](https://github.com/romangrewal/webapp-pentesting-lab)<br>
 94. ⬆️ Pushed 1 commit(s) to [romangrewal/webapp-pentesting-lab](https://github.com/romangrewal/webapp-pentesting-lab)<br>
-95. ⬆️ Pushed 1 commit(s) to [romangrewal/webapp-pentesting-lab](https://github.com/romangrewal/webapp-pentesting-lab)<br>
-96. ⭐ Starred [krol3/kubernetes-security-checklist](https://github.com/krol3/kubernetes-security-checklist)<br>
-97. ⭐ Starred [kh4sh3i/cloud-penetration-testing](https://github.com/kh4sh3i/cloud-penetration-testing)<br>
+95. ⭐ Starred [krol3/kubernetes-security-checklist](https://github.com/krol3/kubernetes-security-checklist)<br>
+96. ⭐ Starred [kh4sh3i/cloud-penetration-testing](https://github.com/kh4sh3i/cloud-penetration-testing)<br>
+97. ⬆️ Pushed 1 commit(s) to [romangrewal/webapp-pentesting-lab](https://github.com/romangrewal/webapp-pentesting-lab)<br>
 98. ⬆️ Pushed 1 commit(s) to [romangrewal/webapp-pentesting-lab](https://github.com/romangrewal/webapp-pentesting-lab)<br>
-99. ⬆️ Pushed 1 commit(s) to [romangrewal/webapp-pentesting-lab](https://github.com/romangrewal/webapp-pentesting-lab)<br>
+<h1 align="left">
+    Hi there, I'm <a href="https://www.linkedin.com/in/roman-grewal-99907b377" target="_blank">Roman Grewal</a>⚡
+</h1>
+
+<p align="center">
+  <img src="./img/matrix.gif" height="250dp" >
+</p>
+<h3 align="center">
+A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
+</h3>
+
+### 😄 About me:
+- 👨‍💻 Writing code since April of 2013.
+- 👀 Hacking is an obsession.
+- 🍒 Code is beautiful.
+    
+### 🔭 What I’m currently working on:
+#### 🔠 Application Penetration Testing
+- ✅ Web Apps
+- ✅ Manual Penetration Testing / Lightweight DAST
+- ✅ Manual & Automated SAST
+- ✅ SCA
+#### 🌐 Penetration Testing of Kubernetes Deployments
+![4c-cloud](./img/4c-cloud-native.png)
+#### ☁️ Penetration Testing of Cloud Environments
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    <img src="./img/Microsoft_Azure.svg.png" alt="azure" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+</p>
+
+### 🗣️ Connect with me:
+
+### 🧰 Github Metrics:
+
+### :zap: Recent Activity:
+
+<!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
 
 ### 🔦 Penetration Testing Tools:
