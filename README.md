@@ -42,9 +42,6 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 4. ⬆️ Pushed 1 commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
 5. ⬆️ Pushed 1 commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
 <!--RECENT_ACTIVITY:end-->
-<!--RECENT_ACTIVITY:last_update-->
-
-<!--RECENT_ACTIVITY:last_update_end-->
 
 ### 🔦 Penetration Testing Tools:
 <p align="left">
