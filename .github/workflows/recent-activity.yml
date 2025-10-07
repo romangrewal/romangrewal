@@ -3,16 +3,15 @@ on:
   schedule:
     - cron: "*/30 * * * *" # Runs every 30 minutes
   workflow_dispatch: # Allows manual triggering
-permissions:
-  contents: write
 
 jobs:
-  update_activity:
+  recent-activity:
+    name: 'Update README with latest activity'
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4 # Checks out your repository
-      - name: Recent GitHub Activity - Profile Readme
-        uses: Readme-Workflows/recent-activity@v2.4.1
+      - name: 'Checkout Repository'
+        uses: actions/Checkout@v3
+      - name: 'Update README.md with recent activity'
+        uses: Readme-Workflows/recent-activity@main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }
