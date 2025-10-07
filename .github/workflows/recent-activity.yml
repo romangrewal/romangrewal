@@ -13,7 +13,7 @@ jobs:
       - name: Update README
         uses: readme-workflows/recent-activity@main # Uses the Readme-Workflows/recent-activity action
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           # Add your customization settings here, e.g.:
           # disable_events: "PullRequestEvent,IssuesEvent"
           # commit_message: "Updated activity in README"
