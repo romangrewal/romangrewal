@@ -20,8 +20,6 @@ settings:
     - star
     - wiki
   url_text: "{REPO}{ID}"
-  date:
-    text: ""
   commit_name: "readme-bot"
   commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
   line_prefix: "{NUM}. "
