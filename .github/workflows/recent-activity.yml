@@ -19,4 +19,3 @@ jobs:
           # timezone: "America/New_York"
           # commit_username: "MyBot"
           # commit_email: "mybot@example.com"
-          github_token: ${{ secrets.GITHUB_TOKEN }} # You might not need to provide this, depends on configuration
