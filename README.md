@@ -32,6 +32,7 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 ### 🗣️ Connect with me:
 
 ### 🧰 Github Metrics:
+![Metrics](https://github.com/romangrewal/romangrewal/blob/master/github-metrics.svg)
 
 ### :zap: Recent Activity:
 
