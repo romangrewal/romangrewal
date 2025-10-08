@@ -44,7 +44,7 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 ### :zap: Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
+1. ⭐ Starred [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop)<br>
 2. ⬆️ Pushed 1 commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
 3. ⬆️ Pushed 1 commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
 4. ⬆️ Pushed 1 commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
