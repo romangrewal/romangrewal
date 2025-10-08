@@ -18,6 +18,5 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           base: header
-          plugin_languages: yes
           plugin_isocalendar: yes
-          config_order: base.header, languages, isocalendar
+          config_order: base.header, isocalendar
