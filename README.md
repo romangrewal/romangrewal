@@ -34,7 +34,7 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
     <a href="https://www.linkedin.com/in/roman-grewal-99907b377"><img src="./img/LinkedIn.png" alt="linkedin" width="90" height="90"/></a>
     <a href="https://www.youtube.com/@itsRomanGrewal"><img src="./img/youtube.png" alt="youtube" width="90" height="90"/></a>
     <a href="https://discord.gg/DdrFpGYBnA"><img src="./img/discord.png" alt="discord" width="90" height="90"/></a>
-    <a href="https://x.com/itsRomanGrewal"><img src="./img/twitter.webp" alt="twitter" width="90" height="90"/></a>
+    <a href="https://x.com/itsRomanGrewal"><img src="./img/twitter-white.png" alt="twitter" width="90" height="90"/></a>
     <a href="https://www.twitch.tv/itsromangrewal"><img src="./img/twitch.png" alt="twitch" width="90" height="90"/></a>
 </p>
 
