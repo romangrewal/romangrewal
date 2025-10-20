@@ -14,4 +14,4 @@ jobs:
       - name: 'Update README.md with recent activity'
         uses: romangrewal/recent-activity@main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.recent-activity }}
