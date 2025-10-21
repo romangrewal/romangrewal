@@ -12,6 +12,6 @@ jobs:
       - name: 'Checkout Repository'
         uses: actions/Checkout@v3
       - name: 'Update README.md with recent activity'
-        uses: Readme-Workflows/recent-activity@main
+        uses: romangrewal/recent-activity@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
