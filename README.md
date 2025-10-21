@@ -46,8 +46,8 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
 2. ⬆️ Pushed undefined commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
-3. ❗️ Opened issue [#348](https://github.com/Readme-Workflows/recent-activity/issues/348) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-4. ⬆️ Pushed undefined commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
+3. ⬆️ Pushed undefined commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
+4. ⬆️ Pushed undefined commit(s) to [romangrewal/recent-activity](https://github.com/romangrewal/recent-activity)<br>
 5. ⬆️ Pushed undefined commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
 <!--RECENT_ACTIVITY:end-->
 
