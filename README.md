@@ -44,11 +44,11 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 ### :zap: Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
-2. ⬆️ Pushed undefined commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
-3. ⬆️ Pushed undefined commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
-4. ⬆️ Pushed undefined commit(s) to [romangrewal/recent-activity](https://github.com/romangrewal/recent-activity)<br>
-5. ⬆️ Pushed undefined commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
+1. ⬆️ Pushed commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
+2. ⬆️ Pushed commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
+3. ⬆️ Pushed commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
+4. ⬆️ Pushed commit(s) to [romangrewal/recent-activity](https://github.com/romangrewal/recent-activity)<br>
+5. ⬆️ Pushed commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### 🔦 Penetration Testing Tools:
