@@ -15,7 +15,7 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 - 🍒 Code is beautiful.
     
 ### 🔭 What I’m currently working on:
-#### 🔠 Application Penetration Testing
+#### 🔠 AppSec Penetration Testing
 - ✅ Web Apps
 - ✅ Manual Penetration Testing / Lightweight DAST
 - ✅ Manual & Automated SAST
