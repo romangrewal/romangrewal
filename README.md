@@ -46,9 +46,9 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed commit(s) to [romangrewal/Data-Structures-and-Algorithms-in-C](https://github.com/romangrewal/Data-Structures-and-Algorithms-in-C)<br>
 2. ⬆️ Pushed commit(s) to [romangrewal/Data-Structures-and-Algorithms-in-C](https://github.com/romangrewal/Data-Structures-and-Algorithms-in-C)<br>
-3. ⬆️ Pushed commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
+3. ⬆️ Pushed commit(s) to [romangrewal/Data-Structures-and-Algorithms-in-C](https://github.com/romangrewal/Data-Structures-and-Algorithms-in-C)<br>
 4. ⬆️ Pushed commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
-5. ⬆️ Pushed commit(s) to [romangrewal/Data-Structures-and-Algorithms-in-C](https://github.com/romangrewal/Data-Structures-and-Algorithms-in-C)<br>
+5. ⬆️ Pushed commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### 🔦 Penetration Testing Tools:
