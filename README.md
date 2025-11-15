@@ -47,7 +47,7 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 1. ⬆️ Pushed commit(s) to [romangrewal/owasp-juice-shop-solutions](https://github.com/romangrewal/owasp-juice-shop-solutions)<br>
 2. ⬆️ Pushed commit(s) to [romangrewal/owasp-juice-shop-solutions](https://github.com/romangrewal/owasp-juice-shop-solutions)<br>
 3. ⬆️ Pushed commit(s) to [romangrewal/owasp-juice-shop-solutions](https://github.com/romangrewal/owasp-juice-shop-solutions)<br>
-4. ⬆️ Pushed commit(s) to [romangrewal/Data-Structures-and-Algorithms-in-C](https://github.com/romangrewal/Data-Structures-and-Algorithms-in-C)<br>
+4. ⬆️ Pushed commit(s) to [romangrewal/owasp-juice-shop-solutions](https://github.com/romangrewal/owasp-juice-shop-solutions)<br>
 5. ⬆️ Pushed commit(s) to [romangrewal/Data-Structures-and-Algorithms-in-C](https://github.com/romangrewal/Data-Structures-and-Algorithms-in-C)<br>
 <!--RECENT_ACTIVITY:end-->
 
