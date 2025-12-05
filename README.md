@@ -44,8 +44,8 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 ### :zap: Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)<br>
-2. ⬆️ Pushed commit(s) to [romangrewal/owasp-juice-shop-solutions](https://github.com/romangrewal/owasp-juice-shop-solutions)<br>
+1. ⭐ Starred [ffuf/ffuf](https://github.com/ffuf/ffuf)<br>
+2. ⭐ Starred [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)<br>
 3. ⬆️ Pushed commit(s) to [romangrewal/owasp-juice-shop-solutions](https://github.com/romangrewal/owasp-juice-shop-solutions)<br>
 4. ⬆️ Pushed commit(s) to [romangrewal/owasp-juice-shop-solutions](https://github.com/romangrewal/owasp-juice-shop-solutions)<br>
 5. ⬆️ Pushed commit(s) to [romangrewal/owasp-juice-shop-solutions](https://github.com/romangrewal/owasp-juice-shop-solutions)<br>
