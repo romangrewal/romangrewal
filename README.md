@@ -45,8 +45,8 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed commit(s) to [romangrewal/owasp-juice-shop-solutions](https://github.com/romangrewal/owasp-juice-shop-solutions)<br>
-2. ⭐ Starred [anmolksachan/TheTimeMachine](https://github.com/anmolksachan/TheTimeMachine)<br>
-3. ⬆️ Pushed commit(s) to [romangrewal/owasp-juice-shop-solutions](https://github.com/romangrewal/owasp-juice-shop-solutions)<br>
+2. ⬆️ Pushed commit(s) to [romangrewal/owasp-juice-shop-solutions](https://github.com/romangrewal/owasp-juice-shop-solutions)<br>
+3. ⭐ Starred [anmolksachan/TheTimeMachine](https://github.com/anmolksachan/TheTimeMachine)<br>
 4. ⬆️ Pushed commit(s) to [romangrewal/owasp-juice-shop-solutions](https://github.com/romangrewal/owasp-juice-shop-solutions)<br>
 5. ⬆️ Pushed commit(s) to [romangrewal/owasp-juice-shop-solutions](https://github.com/romangrewal/owasp-juice-shop-solutions)<br>
 <!--RECENT_ACTIVITY:end-->
