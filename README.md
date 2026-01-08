@@ -44,8 +44,8 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 ### :zap: Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)<br>
-2. ⬆️ Pushed commit(s) to [romangrewal/pentest-academy-website](https://github.com/romangrewal/pentest-academy-website)<br>
+1. ⬆️ Pushed commit(s) to [romangrewal/owasp-juice-shop-solutions](https://github.com/romangrewal/owasp-juice-shop-solutions)<br>
+2. ⭐ Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)<br>
 3. ⬆️ Pushed commit(s) to [romangrewal/pentest-academy-website](https://github.com/romangrewal/pentest-academy-website)<br>
 4. ⬆️ Pushed commit(s) to [romangrewal/pentest-academy-website](https://github.com/romangrewal/pentest-academy-website)<br>
 5. ⬆️ Pushed commit(s) to [romangrewal/pentest-academy-website](https://github.com/romangrewal/pentest-academy-website)<br>
