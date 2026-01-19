@@ -44,9 +44,9 @@ A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
 ### :zap: Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed commit(s) to [romangrewal/owasp-juice-shop-solutions](https://github.com/romangrewal/owasp-juice-shop-solutions)<br>
-2. ⬆️ Pushed commit(s) to [romangrewal/owasp-juice-shop-solutions](https://github.com/romangrewal/owasp-juice-shop-solutions)<br>
-3. ⬆️ Pushed commit(s) to [romangrewal/owasp-juice-shop-solutions](https://github.com/romangrewal/owasp-juice-shop-solutions)<br>
+1. ⬆️ Pushed commit(s) to [romangrewal/pygoat-appsec-pipeline](https://github.com/romangrewal/pygoat-appsec-pipeline)<br>
+2. ⬆️ Pushed commit(s) to [romangrewal/pygoat-appsec-pipeline](https://github.com/romangrewal/pygoat-appsec-pipeline)<br>
+3. ⬆️ Pushed commit(s) to [romangrewal/pygoat-appsec-pipeline](https://github.com/romangrewal/pygoat-appsec-pipeline)<br>
 4. ⬆️ Pushed commit(s) to [romangrewal/owasp-juice-shop-solutions](https://github.com/romangrewal/owasp-juice-shop-solutions)<br>
 5. ⬆️ Pushed commit(s) to [romangrewal/owasp-juice-shop-solutions](https://github.com/romangrewal/owasp-juice-shop-solutions)<br>
 <!--RECENT_ACTIVITY:end-->
