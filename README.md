@@ -6,9 +6,6 @@
   <img src="./img/matrix.gif" height="250dp" >
 </p>
 <h3 align="center">
-    <!---    
-A $${\color{green}Penetration\ Tester}$$ from $${\color{red}Maryland}$$ $${\color{blue}USA}$$
--->
 A Penetration Tester 🤖 from $\color{#e21833}{\textbf{Maryland}}$ 🇺🇸
 </h3>
 
