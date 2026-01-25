@@ -6,7 +6,7 @@
   <img src="./img/matrix.gif" height="250dp" >
 </p>
 <h3 align="center">
-A Penetration Tester 🤖 living in Baltimore, MD 🇺🇸
+A Penetration Tester 🤖 from Maryland 🇺🇸
 </h3>
 
 ### 😄 About me:
