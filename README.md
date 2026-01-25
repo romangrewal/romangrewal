@@ -9,7 +9,7 @@
     <!---    
 A $${\color{green}Penetration\ Tester}$$ from $${\color{red}Maryland}$$ $${\color{blue}USA}$$
 -->
-A Penetration Tester 🤖 from $${\color{#e21833}Maryland}$$ 🇺🇸
+A Penetration Tester 🤖 from $\color{#e21833}{\textbf{Maryland}}$ 🇺🇸
 </h3>
 
 ### 😄 About me:
