@@ -6,7 +6,10 @@
   <img src="./img/matrix.gif" height="250dp" >
 </p>
 <h3 align="center">
-A Penetration Tester 🤖 from Maryland 🇺🇸
+    <!---    
+A $${\color{green}Penetration\ Tester}$$ from $${\color{red}Maryland}$$ $${\color{blue}USA}$$
+-->
+A Penetration Tester 🤖 from $${\color{#e21833}Maryland}$$ 🇺🇸
 </h3>
 
 ### 😄 About me:
