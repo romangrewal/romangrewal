@@ -54,6 +54,12 @@ A Penetration Tester 🤖 from $\color{#e21833}{\textbf{Maryland}}$ 🇺🇸
 ### 🔦 Penetration Testing Tools:
 <p align="left">
     <img src="./img/burpsuite.png" alt="burpsuite" width="40" height="40"/>
+    <img src="./img/ffuf.png" alt="ffuf" width="40" height="40"/>
+    <img src="./img/mitmproxy.png" alt="mitmproxy" width="40" height="40"/>
+    <img src="./img/johntheripper.png" alt="johntheripper" width="40" height="40"/>
+</p>
+<p align="left">
+    <img src="./img/ghidra.png" alt="ghidra" width="40" height="40"/>
     <img src="./img/wireshark.png" alt="wireshark" width="40" height="40"/>
     <img src="./img/tcpdump.svg" alt="tcpdump" width="40" height="40"/>
 </p>
