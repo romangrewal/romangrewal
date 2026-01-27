@@ -44,11 +44,11 @@ A Penetration Tester 🤖 from $\color{#e21833}{\textbf{Maryland}}$ 🇺🇸
 ### :zap: Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
-2. ⬆️ Pushed commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
-3. ⬆️ Pushed commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
+1. 💪 Opened PR [#3](undefined) in [romangrewal/pygoat-appsec-pipeline](https://github.com/romangrewal/pygoat-appsec-pipeline)<br>
+2. ❌ Closed PR [#348](undefined) in [adeyosemanputra/pygoat](https://github.com/adeyosemanputra/pygoat)<br>
+3. 💪 Opened PR [#348](undefined) in [adeyosemanputra/pygoat](https://github.com/adeyosemanputra/pygoat)<br>
 4. ⬆️ Pushed commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
-5. ⭐ Starred [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)<br>
+5. ⬆️ Pushed commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### 🔦 Penetration Testing Tools:
