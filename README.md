@@ -44,11 +44,11 @@ A Penetration Tester 🤖 from $\color{#e21833}{\textbf{Maryland}}$ 🇺🇸
 ### :zap: Recent Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed commit(s) to [romangrewal/romangrewal](https://github.com/romangrewal/romangrewal)<br>
-2. 💪 Opened PR [#4](undefined) in [romangrewal/pygoat-appsec-pipeline](https://github.com/romangrewal/pygoat-appsec-pipeline)<br>
-3. ⬆️ Pushed commit(s) to [romangrewal/pygoat-appsec-pipeline](https://github.com/romangrewal/pygoat-appsec-pipeline)<br>
-4. 💪 Opened PR [#3](undefined) in [romangrewal/pygoat-appsec-pipeline](https://github.com/romangrewal/pygoat-appsec-pipeline)<br>
-5. ❌ Closed PR [#348](undefined) in [adeyosemanputra/pygoat](https://github.com/adeyosemanputra/pygoat)<br>
+1. 💪 Opened PR [#7](undefined) in [romangrewal/pygoat-appsec-pipeline](https://github.com/romangrewal/pygoat-appsec-pipeline)<br>
+2. ⬆️ Pushed commit(s) to [romangrewal/pygoat-appsec-pipeline](https://github.com/romangrewal/pygoat-appsec-pipeline)<br>
+3. 💪 Opened PR [#6](undefined) in [romangrewal/pygoat-appsec-pipeline](https://github.com/romangrewal/pygoat-appsec-pipeline)<br>
+4. 💪 Opened PR [#5](undefined) in [romangrewal/pygoat-appsec-pipeline](https://github.com/romangrewal/pygoat-appsec-pipeline)<br>
+5. ⬆️ Pushed commit(s) to [romangrewal/pygoat-appsec-pipeline](https://github.com/romangrewal/pygoat-appsec-pipeline)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### 🔦 Penetration Testing Tools:
